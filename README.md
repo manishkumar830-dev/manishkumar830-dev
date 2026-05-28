@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi 👋, I'm Manish Kumar
 
-<!--
-**manishkumar830-dev/manishkumar830-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student at CSJM University Kanpur  
+💻 Learning Python, C++, HTML, CSS & JavaScript  
+🚀 Future Software Developer  
+🌱 Currently improving coding & web development skills  
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- C++
+- HTML
+- CSS
+- JavaScript
+- SQL
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Python Calculator
+- Portfolio Website
+- Student Management System
+
+## Connect With Me
+- LinkedIn Profile
+- GitHub Portfolio
